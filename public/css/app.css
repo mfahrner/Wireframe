@@ -1,0 +1,58 @@
+div.location {
+    position: fixed;
+        bottom: 75px;
+        right: 75px;
+}
+
+div.company {
+    position: fixed;
+        top: 20px;
+        right: 200px;
+}
+
+div.message {
+    position: fixed;
+        bottom: 30px;
+        left: 50px;
+}
+
+#submit {
+    position: relative;
+        bottom: 70px;
+        right: 130px;
+        width: 200px;
+        font-size: 100px;
+        padding: 14px 40px;
+
+}
+
+#messagetext {
+    position: relative;
+        bottom: 100px;
+        left: 80px;
+}
+
+h3 {
+    position: relative;
+        top: -60px;
+        right: 15px;
+        color: red;
+}
+
+#email {
+    position: relative;
+        bottom: 40px;
+        left: 80px;
+        height: 30px;
+}
+
+h4 {
+    position: relative;
+        right: 15px;
+        font-size 48px;
+}
+
+h1 {
+    position: relative;
+        left: 60px;
+}
